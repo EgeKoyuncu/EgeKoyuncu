@@ -4,5 +4,4 @@
 Here are some ideas to get you started:
 
 - I’m currently a Computer Science student at Bilkent University.
-- I live in Turkiye.
 - I'm 19 years old.
